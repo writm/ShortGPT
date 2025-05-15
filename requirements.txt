@@ -1,19 +1,20 @@
-ffmpeg
 python-dotenv
+gradio_client
 gradio
 openai
+httpx
 tiktoken
 tinydb
 tinymongo
 proglog
-yt-dlp
+yt-dlp>=2025.1.12
 torch
 torchaudio
 ### whisper timestamped 
 whisper-timestamped
 protobuf
 pillow
-moviepy==1.0.3
+moviepy
 progress
 questionary
 edge-tts
