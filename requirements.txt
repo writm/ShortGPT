@@ -18,3 +18,4 @@ moviepy
 progress
 questionary
 edge-tts
+ffmpeg
